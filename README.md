@@ -1,6 +1,7 @@
 # weather
 
 A new Flutter project.
+![Screenshot_1704151682](https://github.com/esraaehab333/weather-app/assets/113993788/c4c82619-7249-4e87-b0c7-776aa01850d1)
 
 ## Getting Started
 
